@@ -1,4 +1,4 @@
-// Submitted and coded by Jagadeesh Kumar . S, you may send mail to my email address which is jagadeesh_2k17@proton.me, you may contribute some money to my Indian Unified Payment Interface (UPI) which is jagadeesh-kumar@ybl .
+// Submitted and code
 
 Find all the information about each products
 	=  db.product.find().pretty()
@@ -21,4 +21,3 @@ Find products which contain product color indigo  and product price 492.00
 Delete the products which product price value are same
 	= db.product.deleteMany({product_price:36})
   
-  // Submitted and coded by Jagadeesh Kumar . S, you may send mail to my email address which is jagadeesh_2k17@proton.me, you may contribute some money to my Indian Unified Payment Interface (UPI) which is jagadeesh-kumar@ybl .
